@@ -1,0 +1,7 @@
+<Emerald>
+	int x;
+	x = 743;
+	if ( x == x ){
+		println(x);
+	}
+</Emerald>

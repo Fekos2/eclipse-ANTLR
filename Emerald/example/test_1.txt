@@ -1,0 +1,13 @@
+<Emerald>
+
+	int x;
+	x = 0;
+	println(x);
+	suma(2,5);
+	cos(90);
+	sin(90);	
+	if ( x == 0 ){
+		println(x);
+	}
+
+</Emerald>
