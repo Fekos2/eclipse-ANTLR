@@ -1,0 +1,18 @@
+<Emerald>
+
+	int x;
+	x = 25;
+	int y;
+	y = 25;
+	println(y);
+	suma(2,5);
+	cos(90);
+	sin(90);	
+	if (25 == y){
+		println(x);
+		x = 2;
+		println(x);
+		sin(90);
+	}
+
+</Emerald>

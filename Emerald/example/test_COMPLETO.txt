@@ -1,0 +1,18 @@
+<Emerald>
+	int x;
+	x = 5;
+	println(5);
+	if ( x == 0 ){
+		x = 5;
+	}
+	while ( x == 5 ) {//
+		x = 0;
+	}
+	for (x = 0; x < 5; x--){//
+		x = 0;
+	}
+	sin(1);
+	cos(2);
+	suma(3,3);
+	scan(x);//me falta este
+</Emerald>
